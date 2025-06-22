@@ -20,6 +20,9 @@ The provided code uses Natural Language Processing (NLP) techniques, specificall
 
  The Python programming language (version 3.x), Pandas for data handling, NLTK for text processing, Jupyter Notebook (as the development environment), and Matplotlib/Seaborn is used for data visualization, and Scikit-learn is used for machine learning and model evaluation.  The research serves as a powerful illustration of real-world machine learning applied to natural language data because of the combination of tools and methodologies used.  This sentiment analysis job demonstrates how textual data can be converted into predictive insights using NLP and machine learning in Python, and it also acts as a good academic or training exercise thanks to the use of a standard dataset and a reproducible process.
 
+*OUTPUT:*
+
+![Image](https://github.com/user-attachments/assets/025431df-821e-4381-9854-b783467db709)
 
 
 
